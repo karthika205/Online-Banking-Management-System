@@ -9,6 +9,7 @@ connectDB();
 app.use(cors({
   origin: [
     'http://localhost:3000',
+    'https://online-banking-management-system-8w1lo4jjr-karthika-cs-projects.vercel.app',
     'https://online-banking-management-system-t63rkwu87-karthika-cs-projects.vercel.app',
     'https://online-banking-management-system-sable.vercel.app'
   ],
